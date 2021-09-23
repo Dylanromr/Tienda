@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Módulo de login</title>
+<title>Módulo de Login</title>
 </head>
 <body>
 <h1>Bienvenidos a la tienda Genérica</h1>
